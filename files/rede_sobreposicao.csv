@@ -1,0 +1,7 @@
+Source,Target,Type,Weight_Jaccard,Common_Users
+UUYj1jy66peKPzEp808TK5ww,UURJBeQUrU5YPGlchWkva5xw,Undirected,0.0153,1955
+UUYj1jy66peKPzEp808TK5ww,UULR63YCHMfBp4i9zyC6DU3g,Undirected,0.0274,8345
+UUYj1jy66peKPzEp808TK5ww,UUBSMDyh_5qG8grvVu-VIEuw,Undirected,0.0072,878
+UURJBeQUrU5YPGlchWkva5xw,UULR63YCHMfBp4i9zyC6DU3g,Undirected,0.0083,1744
+UURJBeQUrU5YPGlchWkva5xw,UUBSMDyh_5qG8grvVu-VIEuw,Undirected,0.011,232
+UULR63YCHMfBp4i9zyC6DU3g,UUBSMDyh_5qG8grvVu-VIEuw,Undirected,0.0101,2038
