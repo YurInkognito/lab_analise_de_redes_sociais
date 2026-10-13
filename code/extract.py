@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-API_KEY = "AIzaSyCrWk-Ot8uOxQl2_scAhkE3rkqOi9PAXnY"
+API_KEY = "**************************"
 
 CHANNEL_IDS = [
     "UUYj1jy66peKPzEp808TK5ww",
